@@ -1,0 +1,87 @@
+[
+  {
+    "day": "Monday",
+    "focus": "Full Body Strength + Cardio",
+    "exercises": [
+      { "name": "Squats", "description": "4 Sets, 12 reps" },
+      { "name": "Push-ups", "description": "4 Sets, 12 reps" },
+      { "name": "Lat Pulldown", "description": "4 Sets, 12 reps" },
+      { "name": "Dumbbell Shoulder Press", "description": "4 Sets, 12 reps" },
+      { "name": "Treadmill (Incline Walk/Running)", "description": "Duration - 15 min" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "focus": "Cardio + Core",
+    "exercises": [
+      { "name": "Jump Rope", "description": "Duration - 5 min" },
+      { "name": "Bicycle Crunches", "description": "4 Sets, 15 reps" },
+      { "name": "Leg Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Russian Twists", "description": "4 Sets, 20 reps" },
+      { "name": "Plank", "description": "3 Sets, Duration - 60 sec" },
+      { "name": "Stair Climbing / Treadmill", "description": "Duration - 20 min" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "focus": "Upper Body (Chest, Back, Arms)",
+    "exercises": [
+      { "name": "Bench Press", "description": "4 Sets, 10 reps" },
+      { "name": "Pull-ups (Assisted)", "description": "4 Sets, 8 reps" },
+      { "name": "Bicep Curls", "description": "4 Sets, 12 reps" },
+      { "name": "Tricep Dips", "description": "4 Sets, 12 reps" },
+      { "name": "Bent-over Dumbbell Rows", "description": "4 Sets, 12 reps" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "focus": "HIIT + Legs",
+    "exercises": [
+      { "name": "Jump Squats", "description": "4 Sets, 15 reps" },
+      { "name": "Leg Press", "description": "4 Sets, 12 reps" },
+      { "name": "Lunges", "description": "4 Sets, 12 reps" },
+      { "name": "Hamstring Curls", "description": "4 Sets, 12 reps" },
+      { "name": "Treadmill Sprints", "description": "Duration - 15 min" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "focus": "Shoulders + Abs",
+    "exercises": [
+      { "name": "Overhead Dumbbell Press", "description": "4 Sets, 12 reps" },
+      { "name": "Side Lateral Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Hanging Leg Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Cable Face Pulls", "description": "4 Sets, 12 reps" },
+      { "name": "Plank Hold", "description": "3 Sets, Duration - 60 sec" }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "focus": "Active Recovery (Light Cardio/Yoga/Stretching)",
+    "exercises": [
+      {
+        "name": "Brisk Walk or Cycling",
+        "description": "Choose One - Brisk Walk (4-5 km) or Cycling (7-10 km)"
+      },
+      {
+        "name": "Full-Body Stretching",
+        "description": "Duration - 15 min, Each stretch 30-40 sec hold, 2 rounds"
+      },
+      { "name": "Neck Stretch (Side to Side)", "description": "Hold 30-40 sec" },
+      { "name": "Shoulder Rolls", "description": "Hold 30-40 sec" },
+      { "name": "Chest Opener Stretch", "description": "Hold 30-40 sec" },
+      { "name": "Cat-Cow Stretch", "description": "Hold 30-40 sec" },
+      { "name": "Hamstring Stretch (Toe Touch)", "description": "Hold 30-40 sec" },
+      { "name": "Quadriceps Stretch", "description": "Hold 30-40 sec" },
+      { "name": "Seated Forward Bend", "description": "Hold 30-40 sec" },
+      { "name": "Child’s Pose", "description": "Hold 30-40 sec" }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "focus": "Rest / Cheat Meal (Controlled)",
+    "exercises": []
+  }
+]
+
+

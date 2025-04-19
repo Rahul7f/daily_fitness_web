@@ -1,0 +1,76 @@
+[
+  {
+    "day": "Monday",
+    "focus": "Upper Body Strength (Chest + Back + Arms)",
+    "exercises": [
+      { "name": "Incline Bench Press", "description": "4 Sets, 10 reps" },
+      { "name": "Pull-Ups / Assisted", "description": "4 Sets, 8 reps" },
+      { "name": "Dumbbell Rows", "description": "4 Sets, 12 reps" },
+      { "name": "Triceps Rope Pushdown", "description": "4 Sets, 12 reps" },
+      { "name": "Biceps Curl (EZ Bar)", "description": "4 Sets, 12 reps" },
+      { "name": "Light Cardio (Incline Walk)", "description": "Duration - 10 min" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "focus": "Core + HIIT",
+    "exercises": [
+      { "name": "Jump Rope", "description": "Duration - 5 min" },
+      { "name": "Hanging Leg Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Cable Crunch", "description": "4 Sets, 15 reps" },
+      { "name": "Russian Twists", "description": "4 Sets, 20 reps" },
+      { "name": "Plank", "description": "3 Sets, 1 min each" },
+      { "name": "HIIT (Treadmill Sprints/Jumping Jacks)", "description": "Duration - 15 min" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "focus": "Legs + Glutes",
+    "exercises": [
+      { "name": "Barbell Squats", "description": "4 Sets, 12 reps" },
+      { "name": "Leg Press", "description": "4 Sets, 12 reps" },
+      { "name": "Walking Lunges (Dumbbells)", "description": "3 Sets, 15 reps" },
+      { "name": "Hip Thrusts", "description": "4 Sets, 12 reps" },
+      { "name": "Calf Raises", "description": "4 Sets, 15 reps" },
+      { "name": "Incline Walk", "description": "Duration - 10 min" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "focus": "Shoulders + Core",
+    "exercises": [
+      { "name": "Overhead Dumbbell Press", "description": "4 Sets, 12 reps" },
+      { "name": "Side Lateral Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Front Raises", "description": "4 Sets, 12 reps" },
+      { "name": "Plank with Shoulder Tap", "description": "3 Sets, 1 min each" },
+      { "name": "Ab Wheel Rollouts / Leg Raises", "description": "3 Sets, 15 reps" },
+      { "name": "Jump Rope", "description": "Duration - 5 min" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "focus": "Full Body Circuit + Abs",
+    "exercises": [
+      { "name": "Kettlebell Swings", "description": "4 Sets, 15 reps" },
+      { "name": "Burpees", "description": "4 Sets, 12 reps" },
+      { "name": "Dumbbell Thrusters", "description": "4 Sets, 12 reps" },
+      { "name": "Sit-ups + Russian Twists", "description": "3 Rounds" },
+      { "name": "Mountain Climbers", "description": "3 Sets, 30 sec each" },
+      { "name": "HIIT Finish", "description": "Duration - 10 min" }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "focus": "Active Recovery",
+    "exercises": [
+      { "name": "Brisk Walk or Cycling", "description": "Duration - 30-40 min" },
+      { "name": "Full Body Stretching", "description": "Duration - 15-20 min" },
+      { "name": "Light Yoga Flow", "description": "Optional" }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "focus": "Rest / Cheat Meal (Controlled)",
+    "exercises": []
+  }
+]

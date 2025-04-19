@@ -1,0 +1,66 @@
+[
+  {
+    "day": "Monday",
+    "meal": {
+      "Breakfast": "3 boiled eggs (1 yolk only) + multigrain toast + black coffee",
+      "Lunch": "Grilled chicken breast (100g) + brown rice (1 bowl) + salad",
+      "Dinner": "Paneer bhurji (100g) + sautéed broccoli + 1 roti",
+      "Snacks": "Almonds + 1 boiled egg"
+    }
+  },
+  {
+    "day": "Tuesday",
+    "meal": {
+      "Breakfast": "Overnight oats + chia seeds + walnuts + banana (half)",
+      "Lunch": "Rajma or chana (1 bowl) + 1 roti + curd",
+      "Dinner": "Grilled fish/paneer + steamed veggies",
+      "Snacks": "Roasted peanuts + black coffee"
+    }
+  },
+  {
+    "day": "Wednesday",
+    "meal": {
+      "Breakfast": "Sprouts salad + 1 egg omelette + green tea",
+      "Lunch": "Chicken curry (100g) + 1 roti + salad",
+      "Dinner": "Moong dal chilla (2) + salad",
+      "Snacks": "Cucumber + paneer cubes"
+    }
+  },
+  {
+    "day": "Thursday",
+    "meal": {
+      "Breakfast": "Besan chilla (2) + curd",
+      "Lunch": "Dal + brown rice + mixed veg",
+      "Dinner": "Soya curry + 1 roti + salad",
+      "Snacks": "Makhana + black coffee"
+    }
+  },
+  {
+    "day": "Friday",
+    "meal": {
+      "Breakfast": "Poha + peanuts + black coffee",
+      "Lunch": "Paneer tikka + salad + curd",
+      "Dinner": "Dal soup + boiled veggies + 1 roti",
+      "Snacks": "Boiled egg + almonds"
+    }
+  },
+  {
+    "day": "Saturday",
+    "meal": {
+      "Breakfast": "Banana + peanut butter + black coffee",
+      "Lunch": "Grilled chicken + dal + salad",
+      "Dinner": "Paneer stir fry + broccoli",
+      "Snacks": "Sprouts chaat"
+    }
+  },
+  {
+    "day": "Sunday",
+    "focus": "Refeed but Clean",
+    "meal": {
+      "Breakfast": "Protein oats + banana slices + chia",
+      "Lunch": "Grilled chicken + rice + salad",
+      "Dinner": "Egg curry + 1 roti + salad",
+      "Snacks": "Paneer salad"
+    }
+  }
+]

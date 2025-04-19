@@ -1,0 +1,66 @@
+[
+  {
+    "day": "Monday",
+    "meal": {
+      "Breakfast": "2 boiled eggs + 1 roti + dahi",
+      "Lunch": "2 roti + dal + salad + paneer (100g)",
+      "Dinner": "1 roti + sabzi + dahi",
+      "Snacks": "High-Protein Salad"
+    }
+  },
+  {
+    "day": "Tuesday",
+    "meal": {
+      "Breakfast": "Oats + nuts (badam, Akhrot) + green tea",
+      "Lunch": "2 roti + sabzi + curd",
+      "Dinner": "Grilled paneer/tofu + sautéed veggies",
+      "Snacks": "Paneer-Cucumber Salad"
+    }
+  },
+  {
+    "day": "Wednesday",
+    "meal": {
+      "Breakfast": "Sprouts + 1 boiled egg/paneer",
+      "Lunch": "1 roti + chicken (if veg, paneer) + salad",
+      "Dinner": "Moong dal chilla + salad",
+      "Snacks": "Chickpea & Peanut Crunch Salad"
+    }
+  },
+  {
+    "day": "Thursday",
+    "meal": {
+      "Breakfast": "Besan chilla + curd",
+      "Lunch": "Brown rice + dal + veggies",
+      "Dinner": "1 roti + soya chunks + salad",
+      "Snacks": "High-Protein Salad"
+    }
+  },
+  {
+    "day": "Friday",
+    "meal": {
+      "Breakfast": "Poha + peanuts + chai (no sugar)",
+      "Lunch": "1 roti + fish / paneer + salad",
+      "Dinner": "Dal soup + 1 roti + salad",
+      "Snacks": "Paneer-Cucumber Salad"
+    }
+  },
+  {
+    "day": "Saturday",
+    "meal": {
+      "Breakfast": "Banana + peanut butter + black coffee",
+      "Lunch": "2 roti + dal + sabzi",
+      "Dinner": "Paneer bhurji + salad",
+      "Snacks": "Chickpea & Peanut Crunch Salad"
+    }
+  },
+  {
+    "day": "Sunday",
+    "focus": "Light Cheat Day",
+    "meal": {
+      "Breakfast": "Oats + fruit",
+      "Lunch": "2 roti + dal makhani / chicken",
+      "Dinner": "Grilled chicken/paneer",
+      "Snacks": "Sunday Special - Rajma-Paneer Power Salad"
+    }
+  }
+]
